@@ -1,0 +1,2 @@
+D:\GithubNew\13\ToMarket\To\ToMarket\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\13\ToMarket\To\ToMarket\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
